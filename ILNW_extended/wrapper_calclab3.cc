@@ -1,6 +1,6 @@
 /**********************************************************************
-* N.Kozak // Lviv'2019 // example server NodeJS(LLNW)-Asm for pkt4 SP *
-*                         file: wrapper_calclab3.js                   *
+* N.Kozak // Lviv'2019 // example server NodeJS(ILNW)-Asm for pkt4 SP *
+*                         file: wrapper_calclab3.cc                   *
 *                                                              files: *
 *                                                         asmfile.asm *
 *                                                 wrapper_calclab3.cc *
